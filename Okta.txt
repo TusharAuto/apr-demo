@@ -1,1 +1,6 @@
 Okta changes for authentication
+Added a class file
+
+Class Authenticate ()
+
+End Class
